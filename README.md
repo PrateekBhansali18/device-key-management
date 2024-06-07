@@ -15,4 +15,5 @@ Add the below code in pom xml to package into a jar file that runs the server
                 </executions> 
             </plugin>  
         </plugins>  
-    </build>```
+    </build>
+```
