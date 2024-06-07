@@ -1,6 +1,6 @@
 # device-key-management
-Back end of a device key management server
-Add the below code in pom xml to package into a jar file that runs the server
+Back end of a device key management server  
+Add the below code in pom xml to package into a jar file that runs the server  
 ` <build>  
         <plugins>  
             <plugin>  
